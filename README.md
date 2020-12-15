@@ -54,8 +54,7 @@ yarn zip
 # PostCSS Features Used
 
 - Autoprefixer - Don't worry about writing browser prefixes of any kind, it's all done automatically with support for the latest 2 major versions of every browser.
-- Variables - Simple pure CSS variables
-- [Color Function](https://github.com/postcss/postcss-color-function)
+- [Color Mod](https://github.com/jonathantneal/postcss-color-mod-function)
 
 
 # SVG Icons
@@ -67,4 +66,4 @@ You can add your own SVG icons in the same manner.
 
 # Copyright & License
 
-Copyright (c) 2013-2019 Ghost Foundation - Released under the [MIT license](LICENSE).
+Copyright (c) 2013-2020 Ghost Foundation - Released under the [MIT license](LICENSE).
